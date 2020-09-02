@@ -17,3 +17,10 @@ sr. no. | Title | Link | Type | Status
 2 | React redux tutorial | [click here](https://react-redux.js.org/introduction/basic-tutorial) | `artical` | :o:
 3 | Redux official docs | [click here](https://redux.js.org/introduction/getting-started) | `artical` | :o:
 4 | React redux for beginners (Code With Mosh ) | [click here](https://youtu.be/poQXNp9ItL4) | `video` | :o:
+
+### React Native tutorial
+
+sr. no. | Title | Link | Type | Status
+------- | ----- | ---- | ---- | ------
+1 |React Native Tutorial for Beginners - Build a React Native App [2020] (Code With Mosh ) | [click here](https://www.youtube.com/watch?v=0-S5a0eXPoc) | `video` | :o:
+2 |React Native Tutorial for Beginners - Crash Course 2020 (Academind ) | [click here](https://www.youtube.com/watch?v=qSRrxpdMpVc) | `video` | :o:
